@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border:10px solid black;
+    margin: 4px;
+}
+#box{
+    display:flex;
+    justify-content: center;
+}
+.a{
+    background-color: blue;
+}
+.b{
+    background-color:green;
+}
+.c{
+    background-color: yellow;
+}
+.d{
+    background-color: pink;
+}
+.e{
+    background-color: orange;
+}
+.f{
+    background-color: red;
+}
+.g{
+    background-color: purple;
+}
+.h{
+    background-color: brown;
+}
+.i{
+    background-color: black;
+}
+.blink{
+    background-color: white;
+}
